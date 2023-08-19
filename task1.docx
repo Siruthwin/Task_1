@@ -1,0 +1,26 @@
+task_1
+    title Difference between HTTP1.1 vs HTTP2
+        what is HTTP 
+            HTTP stands for hypertext transfer protocol & it is used in client-server communication. 
+            By using HTTP user sends the request to the server & the server sends the response to the user.
+            There are several stages of development of HTTP but we will focus mainly on HTTP/1.1 which was created in 1997 & the new one is HTTP/2
+            which was created in 2015.
+        Difference between HTTP1.1 vs HTTP2
+         HTTP1.1:
+            Developed by Timothy Berners-Lee in 1989 as a communication standard for the World Wide Web,
+            HTTP is a top-level application protocol that exchanges information between a client computer and a local or remote web server. 
+            In this process, a client sends a text-based request to a server by calling a method like GET or POST. 
+            In response, the server sends a resource like an HTML page back to the client.
+            This is known as HTTP1.1 
+        HTTP2:
+            HTTP2 began as the SPDY protocol, developed primarily at Google with the intention of reducing web page 
+            load latency by using techniques such as compression, multiplexing, and prioritization.
+            In HTTP2 the binary framing layer encodes requests/responses and cuts them up into smaller packets of information, 
+            greatly increasing the flexibility of data transfer.
+
+titel: Write a blog about objects and its internal representation in Javascript
+    JavaScript, as a versatile and widely-used programming language, employs a variety of data structures to store and manipulate information. 
+    Among these, objects stand out as a cornerstone of JavaScript's power and flexibility.
+    In JavaScript, an object is a complex data type that allows you to group related data and functionality together. 
+    Objects are made up of key-value pairs, where each key is a string (or a symbol) that maps to a corresponding value.
+    
